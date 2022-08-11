@@ -1,4 +1,5 @@
-![](https://projecteuler.net/profile/onno.png?kill_cache=1)
+[![](https://projecteuler.net/profile/onno.png?kill_cache=1)](https://projecteuler.net/)
+
 
 <!--
 **onnoeberhard/onnoeberhard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
