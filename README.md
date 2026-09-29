@@ -1,4 +1,4 @@
-<table height="300">
+<table height="180">
   <tr>
     <td width="250" valign="center">
       <a href="https://projecteuler.net/"><img src="https://projecteuler.net/profile/onno.png?kill_cache=1" width="100%"></a>
