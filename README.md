@@ -1,26 +1,11 @@
 <table height="180">
   <tr>
-    <td width="250" valign="center" align=center>
+    <td width="250" valign="center" align="center">
       <a href="https://projecteuler.net/"><img src="https://projecteuler.net/profile/onno.png?kill_cache=1" width="100%" alt="Project Euler"></a>
       <a href="https://stackexchange.com/users/8477356"><img src="https://stackexchange.com/users/flair/8477356.png" width="100%" alt="Stack Overflow"></a>
     </td>
-    <td valign="center">
-      <a href="https://leetcode.com/u/onnoeberhard/"><img height="150" src="https://leetcard.jacoblin.cool/onnoeberhard?theme=light&font=Fira%20Code" alt="LeetCode"></a>
+    <td width="380" valign="center" align="center">
+      <a href="https://leetcode.com/u/onnoeberhard/"><img width="100%" src="https://leetcard.jacoblin.cool/onnoeberhard?theme=light&font=Fira%20Code" alt="LeetCode"></a>
     </td>
   </tr>
 </table>
-
-<!--
-**onnoeberhard/onnoeberhard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
